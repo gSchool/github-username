@@ -23,7 +23,7 @@ GitHub username
 
 ##### !answer
 
-*
+/^[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/
 
 ##### !end-answer
 
